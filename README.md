@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 Portfolio
-🔗 Live Website: https://yourusername.github.io/repository-name
+🔗 Live Website: https://github.com/snehabyreddy13/My-Protfolio
 
 ---
 
